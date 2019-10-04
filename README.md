@@ -1,0 +1,2 @@
+# RabbitMQCelery
+Aplicación consistente en recabar la información necesaria para realizar una comparativa gráfica entre el número de retweets de los últimos 100 tweets (o los que se quiera) de tantas cuentas como se indique. Esta información se registra en un fichero (que se sube a Dropbox) y a partir de éste, se genera una gráfica automáticamente. Todo el proceso se ha programado para que se ejecute cada 10 segundos.
